@@ -91,21 +91,19 @@ body {
   display: flex;
 }
 .media span {
-  display: flex;
-  margin: 25px;
-  justify-content: space-evenly;
+  margin: 1em;
 }
 
 .bi-youtube {
-  margin-right: 10px;
+  margin-right: 1em;
   color: red;
 }
 .bi-whatsapp {
-  margin-right: 10px;
+  margin-right: 1em;
   color: green;
 }
 .bi-instagram {
-  margin-right: 10px;
+  margin-right: 1em;
   color: rgb(184, 26, 131);
 }
 
